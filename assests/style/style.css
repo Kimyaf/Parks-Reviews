@@ -1,4 +1,7 @@
 .jumbotron {
+  background-image: url(/sky.jpg);
+  background-size: cover;
+  background-position: center;
   color: rgb(49, 151, 151);
   font-family: Comic Sans MS;
 }
@@ -20,7 +23,7 @@
 
 footer {
   text-align: center;
-  background: greenyellow;
+  background: snow;
   padding: 20px 20px;
   margin: 20px 20px;
 }
