@@ -1,0 +1,26 @@
+.jumbotron {
+  color: rgb(49, 151, 151);
+  font-family: Comic Sans MS;
+}
+
+#parkImg {
+  background: center;
+}
+
+.jumbotron h1 {
+  color: blue;
+  text-align: center;
+  font-size: 80px;
+}
+
+.jumbotron p {
+  text-align: center;
+  font-size: 30px;
+}
+
+footer {
+  text-align: center;
+  background: greenyellow;
+  padding: 20px 20px;
+  margin: 20px 20px;
+}
